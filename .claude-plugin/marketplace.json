@@ -1,0 +1,17 @@
+{
+  "name": "hiring-signal-skills",
+  "owner": {
+    "name": "Daniel Yanchev",
+    "email": "daniel.aisystems@gmail.com",
+    "url": "https://github.com/dani-aisystems"
+  },
+  "description": "Skills for reviewing repos and GitHub profiles the way recruiters and staff engineers actually do, and for designing production-grade AI automation projects.",
+  "plugins": [
+    {
+      "name": "hiring-signal-skills",
+      "source": "./plugins/hiring-signal-skills",
+      "description": "Repository auditor, GitHub portfolio strategist, technical recruiter review, AI automation architect, open-source advisor, and DevOps/CI reviewer skills.",
+      "version": "1.0.0"
+    }
+  ]
+}

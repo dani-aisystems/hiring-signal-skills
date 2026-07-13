@@ -1,0 +1,10 @@
+{
+  "name": "hiring-signal-skills",
+  "description": "Six Claude Code skills for auditing repos and GitHub profiles the way recruiters and hiring managers actually do, and for designing production-grade AI automation projects worth putting in a portfolio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Yanchev",
+    "email": "daniel.aisystems@gmail.com",
+    "url": "https://github.com/dani-aisystems"
+  }
+}
